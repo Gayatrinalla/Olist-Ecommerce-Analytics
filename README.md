@@ -245,3 +245,28 @@ Based on the analysis, the following actions could help improve business perform
    - Maintain sufficient inventory for high-performing product categories.
    - Prioritize marketing in high-performing customer states.
    - Develop targeted strategies to improve sales in lower-performing regions.
+  
+## Project Structure
+
+```text
+Olist-Ecommerce-Analytics/
+├── 1_Raw_Data/
+├── 2_Cleaned_Data/
+├── 3_SQL/
+│   ├── 01_Load_Data.sql
+│   ├── 02_Data_Quality_Checks.sql
+│   └── 03_SQL_EDA.sql
+├── 4_PowerBI/
+│   └── Olist_Ecommerce_Analytics.pbix
+├── 5_Screenshots/
+├── 6_Documentation/
+├── README.md
+└── .gitignore
+
+## Conclusion
+
+This project demonstrates an end-to-end data analytics workflow using Excel, MySQL, SQL, and Power BI.
+
+The analysis transformed raw e-commerce data into actionable insights related to sales performance, customer retention, product categories, delivery performance, payment behavior, and operational costs.
+
+The Power BI dashboards provide an interactive way to explore the results, while the business insights and recommendations demonstrate how data analysis can support practical business decisions.
