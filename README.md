@@ -266,8 +266,8 @@ Olist-Ecommerce-Analytics/
 │   ├── 01_Load_Data.sql
 │   ├── 02_Data_Quality_Checks.sql
 │   └── 03_SQL_EDA.sql
-├── 4_PowerBI/
-│   └── Olist_Ecommerce_Analytics.pbix
+├── 04_PowerBI/
+│   └── Power BI dashboard file retained locally
 ├── 5_Screenshots/
 ├── 6_Documentation/
 ├── README.md
