@@ -1,0 +1,17 @@
+# Power BI
+*.pbix
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
