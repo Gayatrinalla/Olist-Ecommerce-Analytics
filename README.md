@@ -151,6 +151,16 @@ The second dashboard focuses on customer behavior and operational performance, i
 
 Interactive filters were added for **Order Date** and **Customer State** to allow users to explore the data dynamically.
 
+### Dashboard Screenshots
+
+#### Executive Overview
+
+![Executive Overview Dashboard](05_Screenshots/executive_overview.png)
+
+#### Customer & Operations Analysis
+
+![Customer & Operations Analysis Dashboard](05_Screenshots/customer_operations_analysis.png)
+
 ## Key Business Insights
 
 ### 1. Customer Retention Opportunity
